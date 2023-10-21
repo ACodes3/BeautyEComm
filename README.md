@@ -1,4 +1,7 @@
-Beauty Ecommerce Website
+# YOUR PROJECT TITLE Bloomz Beauty Ecommerce Website
+#### Video Demo:  https://www.youtube.com/watch?v=tjjrRfFIT0o
+
+# Description
 This is a dynamic beauty ecommerce website built with HTML, CSS, and JavaScript on the client side, and Node.js on the backend. It features a dynamic cart system that utilizes local storage, allowing items to persist even after a page reload. Additionally, the cart summarizes the selected items and prevents the addition of duplicate products. For secure and seamless transactions, the website is integrated with the Stripe API for checkout.
 Table of Contents
 • Getting Started
@@ -14,7 +17,7 @@ Table of Contents
 
 ---
 
-Getting Started
+# Getting Started
 To run this application locally, follow these steps:
 
 1. Clone the repository.
@@ -24,7 +27,7 @@ To run this application locally, follow these steps:
 
 ---
 
-Features
+# Features
 
 1. Dynamic Cart System
    The beauty ecommerce website boasts a highly interactive and dynamic cart system. Users can effortlessly add products to their cart with just a click. The cart displays the selected items along with their respective quantities and prices. Users can also remove items from the cart, and the total price is updated in real-time. This seamless experience enhances user satisfaction and encourages higher conversion rates.
@@ -47,7 +50,7 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 • HTML
 • CSS
 • JavaScript
@@ -56,14 +59,14 @@ Technologies Used
 
 ---
 
-Installation
+# Installation
 To install the required dependencies, use the following command:
 bashCopy code
 npm install
 
 ---
 
-Usage
+# Usage
 To start the server, use:
 bashCopy code
 npm start
@@ -71,7 +74,7 @@ The website will be accessible at http://localhost:3000.
 
 ---
 
-Local Storage
+# Local Storage
 The cart system utilizes local storage to store selected items. This ensures that the cart contents persist even after the page is reloaded.
 
 ---
@@ -86,10 +89,10 @@ The website is integrated with the Stripe API for secure and seamless transactio
 
 ---
 
-Demo
-I do not have a live demo fort his pproject, only the YouTube video.
+# Demo
+I do not have a live demo fort his project, only the YouTube video.
 
 ---
 
-License
+# License
 This project is licensed under the MIT License (i guess).
